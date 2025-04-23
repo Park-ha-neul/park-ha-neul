@@ -5,7 +5,7 @@
 ---
 
 ### 🌎 Connect with me
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://park-ha-neul.github.io/tags/)
+[![Blog]([https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://park-ha-neul.github.io/tags/](https://velog.io/@skypark1110/posts))
 
 ---
 
