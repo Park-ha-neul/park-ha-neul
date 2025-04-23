@@ -5,13 +5,10 @@
 ---
 
 ### 🌎 Connect with me
-[![Blog]([https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://park-ha-neul.github.io/tags/](https://velog.io/@skypark1110/posts))
-
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@skypark1110)
 ---
 
 ### 📊 GitHub Stats
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<Park-ha-neul>&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Park-ha-neul&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-ha-neul&layout=compact&theme=tokyonight)
